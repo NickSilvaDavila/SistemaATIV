@@ -58,11 +58,8 @@ O projeto em questão apresenta uma aplicação web desenvolvida em PHP, voltada
 
 ## Tecnologias Utilizadas
 - ``PHP``
-- ``HTML``
+- ``HTML``  
 -´´CSS``
 - ``GitHub``
 - ``Visual Studio Code``
-
-
-︵‿︵‿︵‿︵︵‿︵‿︵‿︵v︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵README SISTEMA DE SALARIO:
 
