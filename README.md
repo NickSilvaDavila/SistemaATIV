@@ -59,7 +59,7 @@ O projeto em questão apresenta uma aplicação web desenvolvida em PHP, voltada
 ## Tecnologias Utilizadas
 - ``PHP``
 - ``HTML``  
--´´CSS``
+- ´´CSS``
 - ``GitHub``
 - ``Visual Studio Code``
 
