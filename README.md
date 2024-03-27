@@ -1,11 +1,8 @@
-README SISTEMA DE SALARIO:
-
-
-
+README Sistema de Salário:
 
 𝐖𝐄𝐋𝐂𝐎𝐌𝐄...
 
-# Índice
+# Índice˚˖𓍢ִִ˚🍁ֶָ֢ ⋅
 
 [ Projeto - Sistema de salário](#projeto---Sistema de salário)
 
@@ -22,12 +19,12 @@ README SISTEMA DE SALARIO:
 [Autores](#autores)  
 
 
-## DESCRIÇÃO
+## DESCRIÇÃO💗᪲᪲᪲
 A calculadora de salário de vendedor em PHP é uma aplicação que permite aos gestores de vendas e aos próprios vendedores estimarem seus ganhos de acordo com o desempenho alcançado. A aplicação recebe como entrada as metas de vendas semanais e mensais do vendedor e, com base nessas informações, realiza os cálculos necessários para determinar o salário final.
 
 ︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵
 
-## Introdução
+## Introdução𓍢ִ໋🌷͙֒
 O projeto em questão apresenta uma aplicação web desenvolvida em PHP, voltada para o cálculo do salário de um vendedor com base em suas metas de vendas semanais e mensais. Esta ferramenta proporciona uma maneira eficiente e precisa de determinar o salário final do vendedor, levando em consideração diversas porcentagens de comissão aplicadas sobre as vendas realizadas.
 
 ︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵
@@ -56,10 +53,25 @@ O projeto em questão apresenta uma aplicação web desenvolvida em PHP, voltada
 ´´O código HTML e PHP abaixo mostra a estrutura da calculadora de salário de vendedor:``
 
 
-## Tecnologias Utilizadas
+## 🌟Tecnologias Utilizadas🌟
 - ``PHP``
 - ``HTML``  
 - ´´CSS``
 - ``GitHub``
 - ``Visual Studio Code``
+
+ ## Fontes Consultadas🔍
+[Inteligência Artifcial](https://chat.openai.com/)     
+[w3schools](https://www.w3schools.com/)       
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
+
+︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿
+
+-⌨Este README fornece uma visão geral do projeto, incluindo detalhes sobre seu funcionamento, cálculos das porcentagens, 
+exemplos e a estrutura dos commits. Espero que isso ajude! Se precisar de mais alguma coisa, sinta-se à vontade para perguntar.⌨
+
+︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿
+
+## Autorꕥ
+[Nicolly da Silva D'avila](https://github.com/NickSilvaDavila)
 
