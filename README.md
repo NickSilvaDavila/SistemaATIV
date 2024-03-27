@@ -52,6 +52,10 @@ O projeto em questão apresenta uma aplicação web desenvolvida em PHP, voltada
 
 ´´O código HTML e PHP abaixo mostra a estrutura da calculadora de salário de vendedor:``
 
+![image info](img/Calculo de salario.png)
+![image info](img/Calculo de salario2.png)
+![image info](img/Calculo de salario3.png)
+
 
 ## 🌟Tecnologias Utilizadas🌟
 - ``PHP``
